@@ -5,3 +5,6 @@ We do some Linux-oriented (maybe other unixes sometimes) system programming, mai
 ### Discord Server 
 
 https://discord.gg/QGJPxrVfCD
+
+
+we like cats !
